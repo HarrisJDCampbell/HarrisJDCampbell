@@ -1,6 +1,6 @@
 🚀 things i've shipped
 
-🏀 VISBETS · subscription NBA analytics app. live odds, ensemble prediction models, full mobile/backend/payments stack. built alone from zero.
+🏀 VISBETS · subscription NBA analytics app. live odds, ensemble prediction models, full mobile/backend/payments stack. Open Beta at "www.Visbets.com"
 🎮 Esports Simulation · family business. i own the website, marketing, and operations.
 🌐 harriscampbell.com · the mothership
 📷 harriscampbellphotography.com · for when the compiler needs a break
