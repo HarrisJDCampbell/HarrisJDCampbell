@@ -1,11 +1,5 @@
 ```javascript
-const harris = {
-  status:   "building VISBETS → NBA analytics, casino meets terminal",
-  school:   "Foothill College · CS · transferring fall '26",
-  stack:    \["React Native", "Expo", "Node.js", "Supabase", "Railway"],
-  interests: \["mobile apps", "product design", "nature photography"],
-  current:  "somewhere between TestFlight and the App Store",
-}
+
 ```
 ---
 things i've shipped
