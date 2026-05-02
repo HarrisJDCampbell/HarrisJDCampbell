@@ -1,6 +1,6 @@
-[README.md](https://github.com/user-attachments/files/27307553/README.md)
+[README (2).md](https://github.com/user-attachments/files/27307703/README.2.md)
 <!-- BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0d1117,50:1a472a,100:0d1117&text=Harris%20Campbell&fontColor=c9d1d9&fontSize=60&fontAlignY=55&desc=cs%20student%20·%20builder%20·%20photographer&descAlignY=75&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0d1117,50:1a472a,100:0d1117&text=Harris%20Campbell&fontColor=c9d1d9&fontSize=60&fontAlignY=55&desc=cs%20student%20·%20photographer%20·%20H.O.R.S.E%20legend&descAlignY=75&descSize=18&animation=fadeIn" />
 
 <!-- TYPING SVG -->
 <div align="center">
@@ -11,23 +11,11 @@
 
 ---
 
-```javascript
-const harris = {
-  status:   "building VISBETS → NBA analytics, casino meets terminal",
-  school:   "Foothill College · CS · transferring fall '26",
-  stack:    ["React Native", "Expo", "Node.js", "Supabase", "Railway"],
-  interests: ["mobile apps", "product design", "nature photography"],
-  current:  "somewhere between TestFlight and the App Store",
-}
-```
-
----
-
 ### 🚀 things i've shipped
 
 - 🏀 **[VISBETS](https://visbets.com)** · subscription NBA analytics app. live odds, ensemble prediction models, full mobile/backend/payments stack. built alone from zero.
 - 🎮 **[Esports Simulation](https://esportssimulation.com)** · family business. i own the website, marketing, and operations.
-- 🌐 **[harriscampbell.com](https://harriscampbell.com)** · the mothership
+- 🌐 **[harriscampbell.com](https://harriscampbell.com)** · everything about me I haven't shared here.
 - 📷 **[harriscampbellphotography.com](https://harriscampbellphotography.com)** · for when the compiler needs a break
 
 ---
@@ -43,9 +31,9 @@ const harris = {
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white)
+![MIPS Assembly](https://img.shields.io/badge/MIPS_Assembly-6E4C9E?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -54,19 +42,9 @@ const harris = {
 ### 📡 currently
 
 - 📱 shipping VISBETS to the App Store
-- 🎓 picking a university for fall '26
-- 📸 shooting whenever the light is good
-- ☕ probably debugging something
-
----
-
-### 🎵 now playing
-
-<div align="center">
-
-[![Spotify](https://novatorem-harrisjdcampbell.vercel.app/api/spotify)](https://open.spotify.com)
-
-</div>
+- 🎓 deciding which university to attend in fall '26
+- 📸 shooting whenever I've had enough
+- ☕ probably debugging something and refusing Claude's advice
 
 ---
 
@@ -94,7 +72,11 @@ const harris = {
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/HarrisJDCampbell/HarrisJDCampbell/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarrisJDCampbell/HarrisJDCampbell/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarrisJDCampbell/HarrisJDCampbell/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/HarrisJDCampbell/HarrisJDCampbell/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
