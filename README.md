@@ -1,3 +1,5 @@
+Hey, Im Harris 🤙
+
 🚀 things i've shipped
 
 🏀 VISBETS · subscription NBA analytics app. live odds, ensemble prediction models, full mobile/backend/payments stack. built alone from zero.
