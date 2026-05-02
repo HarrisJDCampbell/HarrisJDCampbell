@@ -22,5 +22,5 @@ Python
 
 📱 shipping VISBETS to the App Store
 🎓 Deciding on a university for fall '26
-📸 shooting whenever the sun is shining (sun emoji)
+📸 shooting whenever the sun is shining ☀️
 ☕ probably debugging something, and refusing to take Claudes advice. 
