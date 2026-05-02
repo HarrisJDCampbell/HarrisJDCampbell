@@ -1,13 +1,21 @@
-```javascript
+🚀 things i've shipped
 
-```
----
-things i've shipped
-VISBETS — subscription NBA analytics app. live odds, ensemble models, full mobile/backend/payments stack. built alone.
-Esports Simulation — family business. i own the site, marketing, and ops.
-harriscampbell.com — the mothership
-harriscampbellphotography.com — for when the compiler needs a break
----
-`React Native` `TypeScript` `Node.js` `Supabase` `PostgreSQL` `Expo` `Railway` `RevenueCat` `Python` `C`
----
-> \*if the commit history looks suspiciously clean, that's on purpose.\*
+🏀 VISBETS · subscription NBA analytics app. live odds, ensemble prediction models, full mobile/backend/payments stack. built alone from zero.
+🎮 Esports Simulation · family business. i own the website, marketing, and operations.
+🌐 harriscampbell.com · the mothership
+📷 harriscampbellphotography.com · for when the compiler needs a break
+
+
+🛠️ stack
+React Native TypeScript Node.js Supabase PostgreSQL Expo Railway RevenueCat Amplitude Python C
+
+📡 currently
+
+📱 shipping VISBETS to the App Store
+🎓 picking a university for fall '26
+📸 shooting whenever the light is good
+☕ probably debugging something
+
+
+📬 find me
+🌐 harriscampbell.com · 📷 photography
