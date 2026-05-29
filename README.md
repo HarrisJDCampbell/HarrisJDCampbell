@@ -14,8 +14,7 @@
 ### 🚀 things i've shipped
 
 - 🏀 **[VISBETS](https://visbets.com/)** · subscription NBA analytics app. live odds, ensemble prediction models, full mobile/backend/payments stack.
-- 🎮 **[Esports Simulation](https://esportssimulation.com/)** · family business.
-- 🌐 **[harriscampbell.com](http://harriscampbell.com)** · everything about me I haven't shared here.
+- 🌐 **[harriscampbell.com](http://harriscampbell.com)** · everything about me 
 - 📷 **[harriscampbellphotography.com](http://harriscampbellphotography.com)** · for when I need to reconnect to nature.
 
 ---
