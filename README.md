@@ -38,10 +38,10 @@
 
 ### 📡 currently
 
-- 📱 shipping VISBETS to the App Store
-- 🎓 deciding which university to attend in fall '26
-- 📸 shooting whenever I've had enough
-- ☕ probably debugging something and refusing Claude's advice
+- 📱 Maintaining VISBETS so you can find the edges they don't.
+- 🎓 Debugging my CS coursework with no help from claude..
+- 📸 Shooting nature whenever I've had enough of the command line
+- ☕ Probably taking a walk around the block to think about how to fix that.
 
 ---
 
