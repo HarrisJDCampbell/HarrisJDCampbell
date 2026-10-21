@@ -78,8 +78,8 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarrisJDCampbell/HarrisJDCampbell/output/github-contribution-grid-snake-dark.svg" />
-  <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/HarrisJDCampbell/HarrisJDCampbell/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarrisJDCampbell/HarrisJDCampbell/output/hoops-dark.svg" />
+  <img width="100%" alt="a pixel player dribbling through my contribution graph and shooting at a hoop, one shot per month" src="https://raw.githubusercontent.com/HarrisJDCampbell/HarrisJDCampbell/output/hoops.svg" />
 </picture>
 
 ---
