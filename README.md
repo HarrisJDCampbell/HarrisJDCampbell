@@ -1,5 +1,5 @@
 <!-- BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0d1117,40:0d2a1a,60:0a1628,100:0d1117&text=Harris%20Campbell&fontColor=e6edf3&fontSize=62&fontAlignY=55&fontAlign=50&desc=cs%20%40%20sfsu%20%C2%B7%20founder%20of%20visbets%20%C2%B7%20H.O.R.S.E%20legend&descAlignY=72&descSize=16&descAlign=50&descFontColor=7d8590&animation=twinkling&stroke=388bfd&strokeWidth=1" />
+<img width="100%" alt="Harris Campbell" src="banner.svg" />
 
 <!-- TYPING SVG -->
 <div align="center">
