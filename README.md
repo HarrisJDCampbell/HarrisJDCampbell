@@ -25,6 +25,10 @@
 - one rule throughout: if code can establish a fact, code establishes it, and the model gets that fact as input
 - Java interview practice graded by actually running your code: tests, a stress test against a reference, and Big-O timed at doubling n
 
+**🏀 [hoops](https://github.com/HarrisJDCampbell/hoops)** · a GitHub Action that plays your contribution graph as a basketball shootaround. it's the animation at the bottom of this page.
+- zero-dependency SVG + CSS animation compiled from one shared timeline; shot arcs are real projectile parabolas
+- open source with outside contributors: newest-first order, streak scoreboard, 15 jersey presets
+
 **🌐 [harriscampbell.com](https://harriscampbell.com)** · everything else about me
 
 ---
@@ -81,6 +85,8 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarrisJDCampbell/HarrisJDCampbell/output/hoops-dark.svg" />
   <img width="100%" alt="a pixel player dribbling through my contribution graph and shooting at a hoop, one shot per month" src="https://raw.githubusercontent.com/HarrisJDCampbell/HarrisJDCampbell/output/hoops.svg" />
 </picture>
+
+<div align="center"><sub>🏀 one shot for every day i shipped · made with <a href="https://github.com/HarrisJDCampbell/hoops"><b>hoops</b></a>, put it on your profile</sub></div>
 
 ---
 
