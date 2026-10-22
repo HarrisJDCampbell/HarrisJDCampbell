@@ -17,10 +17,11 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - uses: HarrisJDCampbell/hoops@v1
+      - uses: HarrisJDCampbell/hoops@v1.1.0
         with:
           github_user_name: HarrisJDCampbell
           jersey: blue-gold
+          order: newest-first
           out_dir: dist
 
       - name: Push output to output branch
