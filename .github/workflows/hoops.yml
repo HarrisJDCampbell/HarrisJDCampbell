@@ -17,16 +17,11 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-node@v4
+      - uses: HarrisJDCampbell/hoops@v1
         with:
-          node-version: 20
-
-      - name: Generate hoops SVG
-        run: node .github/hoops/hoops.mjs --user HarrisJDCampbell --out dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: HarrisJDCampbell
+          jersey: blue-gold
+          out_dir: dist
 
       - name: Push output to output branch
         uses: crazy-max/ghaction-github-pages@v3

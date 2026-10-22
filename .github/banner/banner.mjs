@@ -3,7 +3,7 @@
 // letter gold as it lands, then arcs into a hoop and the whole name flashes.
 // Static output, so it's generated once and committed rather than run in CI.
 //
-//   node .github/hoops/banner.mjs [--out banner.svg]
+//   node .github/banner/banner.mjs [--out banner.svg]
 
 import { writeFileSync } from 'node:fs';
 
