@@ -17,7 +17,7 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - uses: HarrisJDCampbell/hoops@v1.2.0
+      - uses: HarrisJDCampbell/hoops@v1.3.0
         with:
           github_user_name: HarrisJDCampbell
           jersey: blue-gold
